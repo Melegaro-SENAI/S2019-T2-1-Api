@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Senai.Filmes.WebApi",
+    "\\Senai.Filmes.WebApi\\Controller",
+    "\\Senai.Filmes.WebApi\\Domain",
+    "\\Senai.Filmes.WebApi\\Repositorio"
+  ],
+  "SelectedNode": "\\Senai.Filmes.WebApi\\Repositorio\\GeneroRepositorio.cs",
+  "PreviewInSolutionExplorer": false
+}
