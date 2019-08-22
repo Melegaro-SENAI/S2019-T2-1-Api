@@ -12,3 +12,5 @@ C:\Users\47218236812\Desktop\Sprint2-Backend-Tarde\Senai.Sstop.WebApi\Senai.Ssto
 C:\Users\47218236812\Desktop\Sprint2-Backend-Tarde\Senai.Sstop.WebApi\Senai.Sstop.WebApi\bin\Debug\netcoreapp2.1\Senai.Sstop.WebApi.pdb
 C:\Users\47218236812\Desktop\Sprint2-Backend-Tarde\Senai.Sstop.WebApi\Senai.Sstop.WebApi\obj\Debug\netcoreapp2.1\Senai.Sstop.WebApi.dll
 C:\Users\47218236812\Desktop\Sprint2-Backend-Tarde\Senai.Sstop.WebApi\Senai.Sstop.WebApi\obj\Debug\netcoreapp2.1\Senai.Sstop.WebApi.pdb
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Sstop.WebApi1\Senai.Sstop.WebApi\obj\Debug\netcoreapp2.1\Senai.Sstop.WebApi.dll
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Sstop.WebApi1\Senai.Sstop.WebApi\obj\Debug\netcoreapp2.1\Senai.Sstop.WebApi.pdb

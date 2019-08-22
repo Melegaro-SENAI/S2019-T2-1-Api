@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Controller",
-    "\\Domains",
-    "\\wwwroot"
+    "\\Domain",
+    "\\Repositorio"
   ],
-  "SelectedNode": "\\Controller\\ArtstaController.cs",
+  "SelectedNode": "\\Repositorio\\GeneroRepositorio.cs",
   "PreviewInSolutionExplorer": false
 }
