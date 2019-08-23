@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.BookStore.Web.Api", "Senai.BookStore.Web.Api\Senai.BookStore.Web.Api.csproj", "{AB53D90A-4EC2-4B39-966B-4C816BC549DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB53D90A-4EC2-4B39-966B-4C816BC549DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB53D90A-4EC2-4B39-966B-4C816BC549DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB53D90A-4EC2-4B39-966B-4C816BC549DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB53D90A-4EC2-4B39-966B-4C816BC549DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00AF4DF3-2AA8-4D60-8949-60B1B3884234}
+	EndGlobalSection
+EndGlobal

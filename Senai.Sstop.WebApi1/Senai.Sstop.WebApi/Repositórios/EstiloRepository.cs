@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Senai.Sstop.WebApi.Repositories
 {
-    public class EstiloRepository : IEstiloRepository
+    public class EstiloRepository
     {
 
         // aonde que será feita essa comunicação
@@ -34,7 +34,7 @@ namespace Senai.Sstop.WebApi.Repositories
                     // pegar os valores da tabela do banco e armazenar dentro da aplicacao do backend
                     sdr = cmd.ExecuteReader();
 
-                    while (sdr.Read())
+                    while(sdr.Read())
                     {
                         EstiloDomain estilo = new EstiloDomain
                         {
@@ -69,7 +69,7 @@ namespace Senai.Sstop.WebApi.Repositories
                     if (sdr.HasRows)
                     {
                         // ler o que tem no sdr
-                        while (sdr.Read())
+                        while(sdr.Read())
                         {
                             EstiloDomain estilo = new EstiloDomain
                             {
@@ -84,7 +84,7 @@ namespace Senai.Sstop.WebApi.Repositories
                     // retornar
                 }
             }
-
+            
         }
 
         public void Cadastrar(EstiloDomain estiloDomain)
@@ -130,21 +130,6 @@ namespace Senai.Sstop.WebApi.Repositories
             }
 
             // executa
-        }
-
-        public override bool Equals(object obj)
-        {
-            return base.Equals(obj);
-        }
-
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
-        }
-
-        public override string ToString()
-        {
-            return base.ToString();
         }
     }
 }

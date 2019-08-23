@@ -38,7 +38,7 @@ namespace Senai.Filmes.WebApi.Repositorio
                     {
                         GeneroDomain genero = new GeneroDomain
                         {
-                            IdGenero = Convert.ToInt32(sdr[""]),
+                            IdGenero = Convert.ToInt32(sdr["IdGenero"]),
                             Nome = sdr["Nome"].ToString()
                         };
                         generos.Add(genero);
@@ -53,7 +53,7 @@ namespace Senai.Filmes.WebApi.Repositorio
 
         public GeneroDomain BuscarPorId(int id)
         {
-            string Query = "SELECT IdGenero, Nome FROM Generos WHERE IdEstiloMusical = @IdEstiloMusical";
+            string Query = "SELECT IdGenero, Nome FROM Generos WHERE IdGenero = @IdGenero";
             // abrir a conexao
             using (SqlConnection con = new SqlConnection(StringConexao))
             {
@@ -62,7 +62,7 @@ namespace Senai.Filmes.WebApi.Repositorio
 
                 using (SqlCommand cmd = new SqlCommand(Query, con))
                 {
-                    cmd.Parameters.AddWithValue("@IdEstiloMusical", id);
+                    cmd.Parameters.AddWithValue("@IdGenero", id);
                     sdr = cmd.ExecuteReader();
 
                     if (sdr.HasRows)
@@ -72,7 +72,7 @@ namespace Senai.Filmes.WebApi.Repositorio
                         {
                             GeneroDomain genero = new GeneroDomain
                             {
-                                IdGenero = Convert.ToInt32(sdr["IdEstiloMusical"]),
+                                IdGenero = Convert.ToInt32(sdr["IdGenero"]),
                                 Nome = sdr["Nome"].ToString()
                             };
                             return genero;
@@ -88,7 +88,7 @@ namespace Senai.Filmes.WebApi.Repositorio
 
         public void Cadastrar(GeneroDomain generoDomain)
         {
-            string Query = "INSERT INTO EstilosMusicais (Nome) VALUES (@Nome)";
+            string Query = "INSERT INTO Generos (Nome) VALUES (@Nome)";
 
             using (SqlConnection con = new SqlConnection(StringConexao))
             {

@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Controller",
-    "\\Domains",
-    "\\wwwroot"
+    ""
   ],
-  "SelectedNode": "\\Controller\\ArtstaController.cs",
+  "SelectedNode": "\\Senai.Sstop.WebApi.csproj",
   "PreviewInSolutionExplorer": false
 }

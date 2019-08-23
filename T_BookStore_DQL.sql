@@ -1,0 +1,1 @@
+SELECT * FROM Autores ORDER BY IdAutor asc

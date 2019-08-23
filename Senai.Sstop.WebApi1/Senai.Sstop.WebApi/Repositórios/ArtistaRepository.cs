@@ -13,7 +13,7 @@ namespace Senai.Sstop.WebApi.Repositories
 
         public List<ArtistaDomain> Listar()
         {
-            List<ArtistaDomain> artistar = new List<ArtistaDomain>();
+            List<ArtistaDomain> artistas = new List<ArtistaDomain>();
 
             string Query = "SELECT A.IdArtista, A.Nome, E.IdEstiloMusical, E.Nome AS NomeEstilo FROM Artistas AS A INNER JOIN EstilosMusicais AS E ON A.IdEstiloMusical = E.IdEstiloMusical;";
 
@@ -22,47 +22,44 @@ namespace Senai.Sstop.WebApi.Repositories
                 con.Open();
                 SqlDataReader sdr;
 
-
                 using (SqlCommand cmd = new SqlCommand(Query, con))
                 {
-                    // executa a query
+                    // executar a query
                     sdr = cmd.ExecuteReader();
 
-                    //percorrer os dados
+                    // percorrer os dados
                     while (sdr.Read())
                     {
                         ArtistaDomain artista = new ArtistaDomain
                         {
-                            IdArtista = (sdr["IdArtista"]),
+                            IdArtista = Convert.ToInt32(sdr["IdArtista"]),
                             Nome = sdr["Nome"].ToString(),
                             Estilo = new EstiloDomain
                             {
                                 IdEstilo = Convert.ToInt32(sdr["IdEstiloMusical"]),
                                 Nome = sdr["NomeEstilo"].ToString()
                             }
-
                         };
                         artistas.Add(artista);
                     }
                 }
             }
-
+            return artistas;
         }
 
-            public void Cadastrar(ArtistaDomain artistaDomain)
+        public void Cadastrar(ArtistaDomain artistaDomain)
+        {
+            using (SqlConnection con = new SqlConnection(StringConexao))
             {
-                using (SqlConnection con = new SqlConnection(StringConexao))
-                {
-                    string Query = "INSERT INTO Artistas (Nome, IdEstiloMusical) VALUES (@Nome, @EstiloMusical);";
+                string Query = "INSERT INTO Artistas (Nome, IdEstiloMusical) VALUES (@Nome, @IdEstiloMusical);";
 
-                    SqlCommand cmd = new SqlCommand(Query, con);
-                    // parametros
-                    cmd.Parameters.AddWithValue("@Nome", artistaDomain.Nome);
-                    cmd.Parameters.AddWithValue("@IdEstiloMusical", artistaDomain.Estilo.IdEstil);
-                    con.Open();
-                    cmd.ExecuteNonQuery();
-
+                SqlCommand cmd = new SqlCommand(Query, con);
+                // parametros
+                cmd.Parameters.AddWithValue("@Nome", artistaDomain.Nome);
+                cmd.Parameters.AddWithValue("@IdEstiloMusical", artistaDomain.EstiloId);
+                con.Open();
+                cmd.ExecuteNonQuery();
             }
         }
     }
-}        
+}
