@@ -12602,11 +12602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\S2019-T2-1-Api\\Senai.Gufos.WebApi\\Senai.Gufos.WebApi\\Senai.Gufos.WebApi.csproj",
-      "projectName": "Senai.Gufos.WebApi",
-      "projectPath": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\S2019-T2-1-Api\\Senai.Gufos.WebApi\\Senai.Gufos.WebApi\\Senai.Gufos.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\S2019-T2-1-Api\\Senai.BookStore.WebApi\\Senai.Optus.WebApi\\Senai.Optus.WebApi\\Senai.Optus.WebApi.csproj",
+      "projectName": "Senai.Optus.WebApi",
+      "projectPath": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\S2019-T2-1-Api\\Senai.BookStore.WebApi\\Senai.Optus.WebApi\\Senai.Optus.WebApi\\Senai.Optus.WebApi.csproj",
       "packagesPath": "C:\\Users\\47218236812\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\S2019-T2-1-Api\\Senai.Gufos.WebApi\\Senai.Gufos.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\S2019-T2-1-Api\\Senai.BookStore.WebApi\\Senai.Optus.WebApi\\Senai.Optus.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,14 @@
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\bin\Debug\netcoreapp2.1\Senai.Optus.WebApi.deps.json
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\bin\Debug\netcoreapp2.1\Senai.Optus.WebApi.runtimeconfig.json
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\bin\Debug\netcoreapp2.1\Senai.Optus.WebApi.runtimeconfig.dev.json
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\bin\Debug\netcoreapp2.1\Senai.Optus.WebApi.dll
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\bin\Debug\netcoreapp2.1\Senai.Optus.WebApi.pdb
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\obj\Debug\netcoreapp2.1\Senai.Optus.WebApi.csprojAssemblyReference.cache
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\obj\Debug\netcoreapp2.1\Senai.Optus.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\obj\Debug\netcoreapp2.1\Senai.Optus.WebApi.RazorAssemblyInfo.cache
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\obj\Debug\netcoreapp2.1\Senai.Optus.WebApi.RazorAssemblyInfo.cs
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\obj\Debug\netcoreapp2.1\Senai.Optus.WebApi.AssemblyInfoInputs.cache
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\obj\Debug\netcoreapp2.1\Senai.Optus.WebApi.AssemblyInfo.cs
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\obj\Debug\netcoreapp2.1\Senai.Optus.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\obj\Debug\netcoreapp2.1\Senai.Optus.WebApi.dll
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.BookStore.WebApi\Senai.Optus.WebApi\Senai.Optus.WebApi\obj\Debug\netcoreapp2.1\Senai.Optus.WebApi.pdb
