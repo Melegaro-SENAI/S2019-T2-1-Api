@@ -51,7 +51,6 @@ namespace Senai.Optus.WebApi.Repositories
                 ctx.SaveChanges();
             }
         }
-
         // deletar
         public void Deletar(int id)
         {
@@ -64,8 +63,6 @@ namespace Senai.Optus.WebApi.Repositories
                 ctx.Estilos.Remove(estilos);
                 // efetivar as mudanças no banco de dados
                 ctx.SaveChanges();
-
-                //
             }
         }
     }

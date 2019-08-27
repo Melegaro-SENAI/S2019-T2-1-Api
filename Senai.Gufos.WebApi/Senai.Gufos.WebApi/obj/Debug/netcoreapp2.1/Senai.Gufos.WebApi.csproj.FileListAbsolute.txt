@@ -12,3 +12,17 @@ C:\Users\47218236812\Desktop\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\net
 C:\Users\47218236812\Desktop\Senai.Gufos.WebApi\Senai.Gufos.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufos.WebApi.pdb
 C:\Users\47218236812\Desktop\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.dll
 C:\Users\47218236812\Desktop\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.pdb
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufos.WebApi.deps.json
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufos.WebApi.runtimeconfig.json
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufos.WebApi.runtimeconfig.dev.json
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufos.WebApi.dll
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufos.WebApi.pdb
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.csprojAssemblyReference.cache
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.RazorAssemblyInfo.cache
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.RazorAssemblyInfo.cs
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.AssemblyInfoInputs.cache
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.AssemblyInfo.cs
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.dll
+C:\Users\47218236812\Desktop\S2019-T2-1-Api\S2019-T2-1-Api\Senai.Gufos.WebApi\Senai.Gufos.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufos.WebApi.pdb
