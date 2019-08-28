@@ -8,11 +8,11 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Senai.Optus.WebApi
+namespace Senai.Ekips.WebApi
 {
     public class Startup
     {
-
+        
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc()
@@ -40,12 +40,12 @@ namespace Senai.Optus.WebApi
                     // tempo de expiracao
                     ValidateLifetime = true,
                     // forma de criptografia
-                    IssuerSigningKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("gufos-chave-autenticacao")),
+                    IssuerSigningKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("ekips-chave-autenticacao")),
                     // tempo de expiracao
                     ClockSkew = TimeSpan.FromMinutes(30),
                     // quem esta enviando
-                    ValidIssuer = "Optus.WebApi",
-                    ValidAudience = "Optus.WebApi"
+                    ValidIssuer = "Ekips.WebApi",
+                    ValidAudience = "Ekips.WebApi"
                 };
             });
         }

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Senai.Optus.WebApi",
+    "\\Senai.Optus.WebApi\\Contexts",
+    "\\Senai.Optus.WebApi\\Controller",
+    "\\Senai.Optus.WebApi\\Domains",
+    "\\Senai.Optus.WebApi\\Repositories",
+    "\\Senai.Optus.WebApi\\ViewModels"
+  ],
+  "SelectedNode": "\\Senai.Optus.WebApi\\Controller\\EstiloController.cs",
+  "PreviewInSolutionExplorer": false
+}

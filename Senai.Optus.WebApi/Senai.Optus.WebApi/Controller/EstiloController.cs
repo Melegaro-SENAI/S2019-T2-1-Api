@@ -11,6 +11,7 @@ using Senai.Optus.WebApi.Repositories;
 namespace Senai.Optus.WebApi.Controller
 {
     [Route("api/[controller]")]
+    [Produces("application/json")]
     [ApiController]
     public class EstiloController : ControllerBase
     {
