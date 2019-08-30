@@ -12287,11 +12287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\Senai.Ekips.WebApi\\Senai.Ekips.WebApi\\Senai.Ekips.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\S2019-T2-1-Api\\Senai.Ekips.WebApi\\Senai.Ekips.WebApi\\Senai.Ekips.WebApi.csproj",
       "projectName": "Senai.Ekips.WebApi",
-      "projectPath": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\Senai.Ekips.WebApi\\Senai.Ekips.WebApi\\Senai.Ekips.WebApi.csproj",
+      "projectPath": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\S2019-T2-1-Api\\Senai.Ekips.WebApi\\Senai.Ekips.WebApi\\Senai.Ekips.WebApi.csproj",
       "packagesPath": "C:\\Users\\47218236812\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\Senai.Ekips.WebApi\\Senai.Ekips.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\47218236812\\Desktop\\S2019-T2-1-Api\\S2019-T2-1-Api\\Senai.Ekips.WebApi\\Senai.Ekips.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

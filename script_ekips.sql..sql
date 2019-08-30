@@ -39,9 +39,9 @@ CREATE TABLE Funcionarios
 
 USE T_Ekips
 
-INSERT INTO Usuarios (Email, Senha, Permissão) VALUES ('Manoeel@gmail.com','123456','ADMINISTRADOR');
+INSERT INTO Usuarios (Email, Senha, Permissão) VALUES ('Manoel@gmail.com','123456','ADMINISTRADOR');
 
-INSERT INTO Usuarios (Email, Senha, Permissão) VALUES ('Guilhermeee@gmail.com','654321','COMUM');
+INSERT INTO Usuarios (Email, Senha, Permissão) VALUES ('Guilherme@gmail.com','654321','COMUM');
 
 INSERT INTO Departamentos (Nome) VALUES ('Jurídico')
 
